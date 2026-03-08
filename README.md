@@ -1,17 +1,14 @@
-# Nome do projeto
+# Nutrition and Depression
 
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto. Lembrando que o objeto é desenvolver um sistema inteligente. Você deve mencionar o produto que está sendo desenvolvido, e não o que se espera obter com este produto.
+Nutrition and Depression: Insights from the Brazilian National Health Survey (PNS 2019)
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Luiz Felipe Assis Cavalcante
 
 ## Professor
 
-* Nome completo do professor (Prof. Hugo Bastos de Paula)
+* Luis Herique Zarate
 
 ## Instruções de utilização
 
