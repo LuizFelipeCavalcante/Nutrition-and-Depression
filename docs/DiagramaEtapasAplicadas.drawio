@@ -1,9 +1,49 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="yIBPBsgIhTjoSEjuIaqi">
-    <mxGraphModel>
+    <mxGraphModel dx="240" dy="123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5AOaUFeW2WQSM1LjRZHw-7" edge="1" parent="1" source="5AOaUFeW2WQSM1LjRZHw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5AOaUFeW2WQSM1LjRZHw-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5AOaUFeW2WQSM1LjRZHw-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=16.27778964572485;" value="Base de Dados&amp;nbsp; PNS" vertex="1">
+          <mxGeometry height="80" width="90" x="70" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="5AOaUFeW2WQSM1LjRZHw-8" edge="1" parent="1" source="5AOaUFeW2WQSM1LjRZHw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.003;exitY=0.497;exitDx=0;exitDy=0;exitPerimeter=0;" target="5AOaUFeW2WQSM1LjRZHw-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5AOaUFeW2WQSM1LjRZHw-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Etapa 1:&lt;div&gt;Entendimento do domínio e seleção conceitual de atributos&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="200" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="5AOaUFeW2WQSM1LjRZHw-9" edge="1" parent="1" source="5AOaUFeW2WQSM1LjRZHw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5AOaUFeW2WQSM1LjRZHw-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5AOaUFeW2WQSM1LjRZHw-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Etapa 2:&amp;nbsp;&lt;div&gt;Análise descritiva do conjuntos de dados&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="5AOaUFeW2WQSM1LjRZHw-6" edge="1" parent="1" source="5AOaUFeW2WQSM1LjRZHw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5AOaUFeW2WQSM1LjRZHw-5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="280" />
+              <mxPoint x="640" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5AOaUFeW2WQSM1LjRZHw-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Etapa 3:&lt;div&gt;Combinação de atributos&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="500" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="5AOaUFeW2WQSM1LjRZHw-12" edge="1" parent="1" source="5AOaUFeW2WQSM1LjRZHw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5AOaUFeW2WQSM1LjRZHw-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5AOaUFeW2WQSM1LjRZHw-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Etapa 4:&lt;div&gt;Eliminação de dados ausente&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="650" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="5AOaUFeW2WQSM1LjRZHw-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Etapa 5:&lt;div&gt;Eliminação de outliers&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="650" y="350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
