@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="yIBPBsgIhTjoSEjuIaqi">
-    <mxGraphModel dx="240" dy="123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="673" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,41 +8,57 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5AOaUFeW2WQSM1LjRZHw-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=16.27778964572485;" value="Base de Dados&amp;nbsp; PNS" vertex="1">
-          <mxGeometry height="80" width="90" x="70" y="240" as="geometry" />
+          <mxGeometry height="80" width="100" x="60" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="5AOaUFeW2WQSM1LjRZHw-8" edge="1" parent="1" source="5AOaUFeW2WQSM1LjRZHw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.003;exitY=0.497;exitDx=0;exitDy=0;exitPerimeter=0;" target="5AOaUFeW2WQSM1LjRZHw-3" value="">
+        <mxCell id="5AOaUFeW2WQSM1LjRZHw-8" edge="1" parent="1" source="5AOaUFeW2WQSM1LjRZHw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.003;exitY=0.497;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="400" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5AOaUFeW2WQSM1LjRZHw-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Etapa 1:&lt;div&gt;Entendimento do domínio e seleção conceitual de atributos&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="200" y="240" as="geometry" />
+        <mxCell id="5AOaUFeW2WQSM1LjRZHw-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Etapa 1:&lt;div&gt;Definição do domínio do problema&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="200" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="5AOaUFeW2WQSM1LjRZHw-9" edge="1" parent="1" source="5AOaUFeW2WQSM1LjRZHw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5AOaUFeW2WQSM1LjRZHw-4" value="">
+        <mxCell id="tiY74MGTiCqmtfa-TYHp-7" edge="1" parent="1" source="5AOaUFeW2WQSM1LjRZHw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5AOaUFeW2WQSM1LjRZHw-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5AOaUFeW2WQSM1LjRZHw-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Etapa 2:&amp;nbsp;&lt;div&gt;Análise descritiva do conjuntos de dados&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="350" y="240" as="geometry" />
+        <mxCell id="5AOaUFeW2WQSM1LjRZHw-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Etapa 3:&amp;nbsp;&lt;div&gt;Análise descritiva do conjuntos de dados&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="600" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="5AOaUFeW2WQSM1LjRZHw-6" edge="1" parent="1" source="5AOaUFeW2WQSM1LjRZHw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5AOaUFeW2WQSM1LjRZHw-5" value="">
+        <mxCell id="tiY74MGTiCqmtfa-TYHp-6" edge="1" parent="1" source="5AOaUFeW2WQSM1LjRZHw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5AOaUFeW2WQSM1LjRZHw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5AOaUFeW2WQSM1LjRZHw-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Etapa 4:&lt;div&gt;Eliminação de dados ausente&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="800" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="5AOaUFeW2WQSM1LjRZHw-12" edge="1" parent="1" source="5AOaUFeW2WQSM1LjRZHw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="640" y="280" />
-              <mxPoint x="640" y="280" />
-            </Array>
+            <mxPoint x="750" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5AOaUFeW2WQSM1LjRZHw-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Etapa 3:&lt;div&gt;Combinação de atributos&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="500" y="240" as="geometry" />
+        <mxCell id="5AOaUFeW2WQSM1LjRZHw-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Etapa 5:&lt;div&gt;Eliminação de outliers e inconsistências&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="800" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="5AOaUFeW2WQSM1LjRZHw-12" edge="1" parent="1" source="5AOaUFeW2WQSM1LjRZHw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5AOaUFeW2WQSM1LjRZHw-11" value="">
+        <mxCell id="tiY74MGTiCqmtfa-TYHp-4" edge="1" parent="1" source="tiY74MGTiCqmtfa-TYHp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5AOaUFeW2WQSM1LjRZHw-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5AOaUFeW2WQSM1LjRZHw-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Etapa 4:&lt;div&gt;Eliminação de dados ausente&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="650" y="240" as="geometry" />
+        <mxCell id="tiY74MGTiCqmtfa-TYHp-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Etapa 2:&amp;nbsp;&lt;div&gt;Seleção conceitual de atributos&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="400" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="5AOaUFeW2WQSM1LjRZHw-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Etapa 5:&lt;div&gt;Eliminação de outliers&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="650" y="350" as="geometry" />
+        <mxCell id="tiY74MGTiCqmtfa-TYHp-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;labelBackgroundColor=none;fillColor=#D5E8D4;" value="20h" vertex="1">
+          <mxGeometry height="20" width="30" x="330" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="tiY74MGTiCqmtfa-TYHp-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;labelBackgroundColor=none;fillColor=#D5E8D4;" value="6h" vertex="1">
+          <mxGeometry height="20" width="30" x="530" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="tiY74MGTiCqmtfa-TYHp-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;labelBackgroundColor=none;fillColor=#D5E8D4;" value="4h" vertex="1">
+          <mxGeometry height="20" width="30" x="730" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="tiY74MGTiCqmtfa-TYHp-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;labelBackgroundColor=none;fillColor=#D5E8D4;" value="3h" vertex="1">
+          <mxGeometry height="20" width="30" x="930" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="tiY74MGTiCqmtfa-TYHp-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;labelBackgroundColor=none;fillColor=#D5E8D4;" value="0" vertex="1">
+          <mxGeometry height="20" width="30" x="930" y="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
